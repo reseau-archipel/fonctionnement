@@ -1,4 +1,4 @@
-#**S'organiser collectivement pour inventer une nouvelle façon de travailler : *underlineArchipelunderline***
+#**S'organiser collectivement pour inventer une nouvelle façon de travailler : *Archipel***
 
 **Contexte** : ROUMICS 2014
 ** Participants** : Bernard Brunet,  Christian Mahieu, Anne-Sophie Payen, Amandine Piron
@@ -24,40 +24,40 @@ Objectif : imaginer une solution souple, avec un niveau de contrainte faible, un
 Qui repose sur : 
     
 
-   * **underlineUne gouvernance partagéeunderline**
+   * **Une gouvernance partagée**
 
-   * **underlineUn modèle économique plurielunderline**
-                  * *underlinemarchandunderline* 
+   * **Un modèle économique pluriel**
+                  * *marchand* 
                           * Je contribue aux communs  
                * J'utilise les communs pour gagner ma vie  
                * Tout ce que je produis est en CCbySA  
-           * *underlinenon marchand underline*
+           * *non marchand *
                * Je contribue aux communs  
                * Je cherche à me faire financer 
                                   * par des subventions  
                    * par un système de rétribution des communs  
                * Tout ce que je produis est en CCbySA  
-           * *underlinenon monétaire underline*
+           * *non monétaire *
                * Je contribue aux communs  
                * J'utilise les communs pour échanger des biens ou des services avec d'autres  
                * Tout ce que je produis est en CCbySA  
 Qui s'appuie sur :
 
-   * **underlineUne Charte éthiqueunderline**
+   * **Une Charte éthique**
 
-   * **underlineDeux principes de fonctionnementunderline** : 
+   * **Deux principes de fonctionnement** : 
            * Tout est sous licence CCbySA
            * La contribution au communs (via la banque des communs) est conditionnel de  l'usage de la Chambre de compensation.
 
 ##        **Une plate-forme = Deux outils**
 
 
-       * **underlineUn premier outil : Le commun d'abordunderline**
+       * **Un premier outil : Le commun d'abord**
            * Une banque de communs  
            * Un patern de briques          > Proposition de technologie libre : YesWiki
 
 
-       * **underlineUn deuxième outil pour gérér les échanges réciproquesunderline**
+       * **Un deuxième outil pour gérér les échanges réciproques**
            * Une "chambre de compensation"  
            * Une unité d'échange horaire virtuelle
            * L'obligation de contribuer aux communs              > Proposition de technologie libre : 
@@ -71,34 +71,34 @@ Qui s'appuie sur :
 
 **Points importants** : 
 
-underlineMode de développementunderline : virale
+Mode de développement : virale
 >> Abaisser au maximum de seuil du passage à l'acte
 
-underlineGouvernanceunderline : 
+Gouvernance : 
 - Un collège d'administrateurs
 
-underlineLes frais de fonctionnementunderline : 
+Les frais de fonctionnement : 
 - Hébergement, nom de domaine, développement... régulé et pris en charge via la chambre de compensationion
 
-underlineProcédure d'inscriptionunderline : 
+Procédure d'inscription : 
 - Gratuite
 - Démarche individuelle
 - Validée par un administrateur (pour valider l'intérêt de la personne et son adhésion au commun)
 - Adhésion à la Charte
 -  Création d'une identité numérique individuelle qui permette de  visualiser les contributions à la banque et les usages de la Chambre de  compensation de la personne, ainsi que l'évaluation de la qualité des  contribution de la personne.
 
-underlineProcédure de fonctionnement de la banqueunderline : 
+Procédure de fonctionnement de la banque : 
 - Une contribution au commun = une brique = une page
 - Une brique = un formulaire
 - Chaque brique est identifé par un titre, une catégorie, des tags et l'auteur(s)
 -  Une brique = partage d'un savoir en lien avec les transitions (méthode,  concept, analyse de pratique) et de liens (vers support, article, site  internet ...)
 -  Système de notation de la brique (lorsque B fait appel à la brique A, B  est invité à laisser un commentaire / à évaluer la qualité de la  brique)
 
-underlineProcédure d'acès au système d'échange B2Bunderline : 
+Procédure d'acès au système d'échange B2B : 
 -  Un accès modéré à priori par une vérification (manuelle dans un premier  temps puis automatique) de la contribution de la personne à la banque  aux communs.
     Ex : six mois de contribution au commun
 
-underlineProcédure de fonctionnement de la Chambre de compensationunderline : 
+Procédure de fonctionnement de la Chambre de compensation : 
 - Repose sur une unité d'échange horaire virtuelle
 - La valeur de l'échange est auto-évaluée 
 - L'échange repose sur une validation à posteriori en pair-à-pair qui doit être visible
@@ -108,7 +108,7 @@ underlineProcédure de fonctionnement de la Chambre de compensationunderline :
        * **Nos besoins pour avancer : **- un développeur
 - un designeur de service
 
-underlineProposition :underline
+Proposition :
     Créer un espace "expérimentation TimeBank" sur Kaleidos-coop
 
 
@@ -119,7 +119,7 @@ Participants : Bernard Brunet,  Christian Mahieu, Anne-Sophie Payen, Amandine Pi
 ##Débrief
 
 
-       * **S'organiser collectivement pour inventer une nouvelle façon de travailler : *underlineArchipelunderline***
+       * **S'organiser collectivement pour inventer une nouvelle façon de travailler : *Archipel***
            * Nouvelle façon de faire du conseil / methodologies pour répondre rapidement a des appels d'offre / marchés (hacke)
            * Question de l'organisation du réseau, de la taille des structures économiques
            * Etendre le réseau à des personnes / structures
@@ -179,9 +179,9 @@ ex : e-barter
 
 ###Une plate-forme pour favoriser l'archipel de coopération
 
-underlineObjet :underline la transition
-underlineLicenceunderline : CC by SA
-underlineUtilisationunderline : On peut être contributeur à la banque des communs et non utilisateur du B2B.
+Objet : la transition
+Licence : CC by SA
+Utilisation : On peut être contributeur à la banque des communs et non utilisateur du B2B.
 Par contre, la contribution à la banque est conditionnelle de l'utilisation du B2B.
 
 **Une plate-forme, Deux outils : **
@@ -202,7 +202,7 @@ Une brique =
     Développement / Analyse
     Lien et téléchargement 
 
-underlineQuestion : underline
+Question : 
     Comment on gère l'accès et la visibilité de la banque ?
 
 
@@ -210,7 +210,7 @@ underlineQuestion : underline
 > Basé sur une monnaie temps
 > Un système de contrôle en pair-à-pair
 
-underlineQuestion :underline quelle évaluation du temps ?
+Question : quelle évaluation du temps ?
 Proposition : on ne met pas de règle. Chacun est responsable de son évaluation.
 
 >> PRESENTATION DE LA CHAMBRE DE COMPENSATION

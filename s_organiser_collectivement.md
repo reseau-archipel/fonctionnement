@@ -11,6 +11,8 @@ Objectif : imaginer une solution souple, avec un niveau de contrainte faible, un
 
 **Mots clés **:#économie plurielle #commun #B2B #solidarité
 
+Source: https://lite5.framapad.org/p/Archipel
+
 **SYNTHÈSE:** 
 
 ##- **Un Archipel **

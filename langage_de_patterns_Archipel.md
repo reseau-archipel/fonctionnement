@@ -26,7 +26,7 @@ la trame de base d'un pattern est la suivante:
 
 NOM DU PATTERN
 
-- Descriptino du contexte et des forces matérielles ou immatérielles en présence (description du problème à résoudre).
+- Description du contexte et des forces matérielles ou immatérielles en présence (description du problème à résoudre).
 - (Optionnel: Travaux et publication de références en lien avec le contexte et les solutions connues.)
 - Descriptions de la bonne pratiques avec exemples
 
@@ -57,9 +57,15 @@ Le copyright, modèle actuellement dominant de partage de la connaissance est un
 
 Par conséquent,
 
-Pour avoir un réseau vivant avec de la confiance, privilégiez l'usage de licence libre qui permettent la réutilisation y compris pour un usage commercial afin que les créateurs et utilisateurs puissent batir de la richesse pour eux mmes et pour le réseau. L'Archipel utilise la licence CC-BY-SA.
+Pour avoir un réseau vivant avec de la confiance, privilégiez l'usage de licence libre qui permettent la réutilisation y compris pour un usage commercial afin que les créateurs et utilisateurs puissent batir de la richesse pour eux mmes et pour le réseau. L'Archipel utilise la licence CC-BY-SA qui permet à ceux qui le souhaitent
+
+- de reproduire, distribuer et communiquer les documents dans un but commercial ou non
+- de les adapter à condition de les partager le résultat sous les mêmes conditions et à condition d’indiquer la paternité (la source)
+
 
 ## LOGICIELS LIBRES
+
+
 
 ## RESEAU DECENTRALISE
 
@@ -79,14 +85,15 @@ Un pattern est un ingrédient, une sous partie, un trame d'un système plus vast
 
 ## CO-ANIMATION 
 
-Animer seul est difficile, surtout face à un grand groupe. Co-animer permet d'avoir un soutien, de se relayer, et d'apprendre l'un de l'autre et à mieux coopérer.
+Animer seul est difficile, surtout face à un grand groupe. Co-animer permet d'avoir un soutien, de se relayer, et d'apprendre l'un de l'autre et à mieux coopérer....
 
 ## STAGES
 
-lors de formation où des iliens interviennent, proposer à un tiers de venir en observateur méta, à la fois pour apprendre, mais aussi bénéficier de ses retours, mieux nous connaitre et croiser nos méthodes.
+lors de formation où des iliens interviennent, proposer à un tiers membre de l'archipel de venir en observateur méta, à la fois pour apprendre, mais aussi bénéficier de ses retours, mieux nous connaitre et croiser nos méthodes....
 
 ## CO-WO-SLOW-TOURISME
 
+réduire nos couts d'hébégerment, passer un moment de rencontre hors boulot pourmieux se connaitre...
 
 ## CO-CREATIONS MUTUALISES
 
